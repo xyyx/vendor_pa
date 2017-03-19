@@ -1,0 +1,40 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "xyyx/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "n2-caf"
+    },
+    {
+        "remote":       "github",
+        "repository":   "xyyx/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "n2-caf"
+    },
+    {
+        "remote":       "github",
+        "repository":   "xyyx/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "n2-caf"
+    },
+    {
+        "remote":       "github",
+        "repository":   "nitrogen-project/android_external_ant-wireless_ant_native",
+        "target_path":  "external/ant-wireless/ant_native",
+        "revision":     "n2-caf"
+    },
+    {
+        "remote":       "github",
+        "repository":   "nitrogen-project/android_external_ant-wireless_ant_service",
+        "target_path":  "external/ant-wireless/ant_service",
+        "revision":     "n2-caf"
+    },
+    {
+        "remote":       "github",
+        "repository":   "nitrogen-project/android_external_ant-wireless_antradio-library",
+        "target_path":  "external/ant-wireless/antradio-library",
+        "revision":     "n2-caf"
+    }
+
+
+]
